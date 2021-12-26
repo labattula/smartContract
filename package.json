@@ -1,0 +1,19 @@
+{
+  "name": "getter-setter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.1",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.11",
+    "truffle": "^5.4.26",
+    "web3": "^1.6.1"
+  }
+}
